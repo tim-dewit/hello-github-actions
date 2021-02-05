@@ -1,4 +1,4 @@
-name: My awesome workflow!
+name: My awesome workflow
 on: push
 jobs:
   build:
